@@ -1,5 +1,4 @@
 import pandas as pd
 
-df = pd.read_csv("Complete_DC_Comic_Books.csv")
-
+df = pd.read_csv("hhttps://www.kaggle.com/deepcontractor/marvel-comic-books")
 print(df.head())
